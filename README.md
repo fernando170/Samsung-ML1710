@@ -1,13 +1,15 @@
 # Instalación de drivers para Samsung-ML1710
 ## Para windows 10 o posterior
 **Nota importante:** Si se desea instalar éste controlador sin realizar los pasos previos, los más probable es que el Sistema Operativo retorne un error del siguiente tipo.
+
 ![Pantalla de error](error.png)
+
 Éste error se debe a que los controladores de la Samsung-ML1710 en su momento no requerían del uso obligatorio de controladores firmados, a menos que la configuración de su computadora sea la indicada para no solicitarlos, es necesario realizar los siguientes pasos.
 
 ### Reinicio para no solicitar controladores firmados
 1. Acceder al menú de configuración de Windows, esto se puede realizar utilizando la combinación de teclas Windows+i o presionando la tecla Windows y dar click en el ícono de configuración.
 2. En la pantalla que nos aparecerá seleccionaremos el rubro de 'Actualización y Seguridad'.
-![Actualización y Seguridad](actualizacionYseguridad.png)
+![Actualización y Seguridad](actualizacionySeguridad.png)
 3. Daremos click en 'Recuperación'
 ![Recuperación](Recuperacion.png)
 4. Una vez que aparezca el menú, avanzaremos hacia la parte inferior en donde aparezca la opción 'Inicio avanzado'.
